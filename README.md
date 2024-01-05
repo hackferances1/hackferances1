@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hackferances1
+- 👋 Hi, I’m @gluto
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning opengl
 - 💞️ I’m looking to collaborate on nocone
